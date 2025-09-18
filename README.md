@@ -113,9 +113,9 @@ StreamlitPython/
 | Member | Role | Expertise |
 |--------|------|-----------|
 | **Supravo Biswas** | 🔬 Full Pipeline Developer & ML Contributor | Streamlit, Full Stack, ML, Data Analysis |
-| **Suvanjan Das** | 🧠 Lead AI/ML Engineer & Project Lead | Python, TensorFlow, Data Science |
+| **Suvanjan Das** | 🧠 Project Coordinator |  Data Science, Machine Learning, Scientific Writing, Seismology |
 | **Abir Saha** | 🌍 ML Model Validator & Feature Engineer | Seismology, ML Validation, Web Development |
-| **Arja Banerjee** | 📚 ML Researcher & Literature Reviewer | ML Research, Scientific Writing |
+| **Arja Banerjee** | 📚 Scientific Machine Learning | Machine Learning, Deep Learning, Scientific Modelling and Writing, Seismology |
 | **Sayan Rana** | 📊 Data Scientist & ML Contributor | Statistics, Feature Engineering |
 | **Iqbal Shaikh** | 🎨 ML Contributor | Machine Learning, Python |
 
@@ -167,7 +167,7 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 
 ## 📞 Contact
 
-- **Email**: supravo.biswas@example.com
+- **Email**: supravo.biswas@gmail.com
 - **GitHub**: [@SupravoCoder](https://github.com/SupravoCoder)
 - **Project Link**: [https://github.com/SupravoCoder/Bhukamp](https://github.com/SupravoCoder/Bhukamp)
 
