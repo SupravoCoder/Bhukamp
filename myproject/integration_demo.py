@@ -589,7 +589,7 @@ def demo_company_deployment():
     for sub in company_subscribers:
         subscriber_id = notification_system.add_subscriber(**sub)
         if subscriber_id:
-            print(f"✅ Added: {sub['name']} - Company Stakeholder ({sub.get('employee_id', 'N/A')})")
+            print(f"✅ Added: {sub['name']} - Company Stakeholder")
         else:
             print(f"⚠️ {sub['name']} already exists or failed to add")
     
